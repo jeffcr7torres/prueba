@@ -1,3 +1,3 @@
 export class prueba {
-    hola: string;
+    hola: number;
 }
